@@ -12,7 +12,7 @@
   ],
   "dependencies": {
     "jsdom": "^11.3.0",
-    "xmlshim": "^0.2.1"
+    "xmlshim": "git://github.com/eyz/node-xmlshim.git#be6220b53809b2c5a84be25c17e56bc4a12ba411"
   },
   "devDependencies": {
     "chai": "^4.1.2",
