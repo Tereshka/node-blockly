@@ -1,6 +1,6 @@
 'use strict';
 
-var Blockly = require('./_blockly')
+var Blockly = require('./_blockly');
 
 require('./js');
 require('./php');

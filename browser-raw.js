@@ -1,4 +1,4 @@
-const Blockly = require('./lib/blockly_compressed_browser');
+let Blockly = require('./lib/blockly_compressed_browser');
 
 Blockly.setLocale = function(locale) {
   Blockly.Msg = Object.assign(locale, Blockly.Msg);
